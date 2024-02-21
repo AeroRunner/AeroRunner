@@ -28,9 +28,9 @@
 
 | Project name                                                        | GitHub links                                                     
   |---------------------------------------------------------------------|------------------------------------------------------------------|
-| Проект по автоматизации UI тестов на сервис Pikabu.ru               | [Pikabu_UI_Tests](https://github.com/le-vi-che/UI_Raif_project)  |  
-| Автоматизация тестоирования API сервиса Reqres.in                   | [Api_Tests](https://github.com/le-vi-che/API_project/tree/main)  |  
-| Проект по автоматизации UI тестов в мобильном приложении Wikipedia  | [Wiki_Mobile_Tests](https://github.com/le-vi-che/mobile_project) |  
+| Проект по автоматизации UI тестов на сервис Pikabu.ru               | [Pikabu_UI_Tests](https://github.com/AeroRunner/Pikabu_AutoTest_UI_Project)  |  
+| Автоматизация тестоирования API сервиса Reqres.in                   | [Api_Tests](https://github.com/AeroRunner/Project_API)  |  
+| Проект по автоматизации UI тестов в мобильном приложении Wikipedia  | [Wiki_Mobile_Tests](https://github.com/AeroRunner/Mobile_Project) |  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
